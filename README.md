@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-**Pood16/Pood16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:![DSC_6879](https://github.com/user-attachments/assets/9cb80004-a71a-4b56-be79-73014656ff53)
 
 
 ..
