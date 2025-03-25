@@ -62,15 +62,10 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pood16&show_icons=true&locale=en" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pood16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Pood16&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pood16&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pood16&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
-
-###
 
 <h3 align="left">📚 Education</h3>
 
@@ -81,20 +76,7 @@
 
 ###
 
-<h3 align="left">💼 Projects</h3>
 
-###
-
-- **DevConnect** – A social network for developers to share knowledge, projects, and opportunities.  
-  Technologies: PHP, Laravel, PostgreSQL, JavaScript, HTML, Tailwind CSS  
-
-- **Youdemy** – A platform for managing online courses with interactive content, role-based authentication.  
-  Technologies: PHP, MySQL, HTML, JavaScript, Tailwind CSS  
-
-- **FUT Team Management App** – An interactive team-building app with tactical formations for football (FIFA).  
-  Technologies: JavaScript, HTML, CSS  
-
-###
 
 <h3 align="left">🌍 Languages</h3>
 
