@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -12,18 +12,24 @@
 
 ###
 
-<p align="left">I'm Lahcen Ouirghane, a passionate Full-stack developer from Morocco<br><br>- 📚 Currently studying Full Stack Development at YouCode<br>- ⚡ In my free time, I experiment with new coding challenges<br>- 💡 I work on side projects (small apps, open-source contributions)<br>- 🎧 I enjoy listening to podcasts or music (tech talks, or just vibing)</p>
+<p align="left">I'm Lahcen Ouirghane, a passionate Full-stack developer from Morocco<br><br>- 🚀 Currently studying Full Stack Development at YouCode<br>- 🌱 I'm currently learning React.js and Laravel to expand my skill set<br>- ⚡ In my free time, I experiment with new coding challenges<br>- 💡 I work on side projects (small apps, open-source contributions)<br>- 🎧 I enjoy listening to podcasts or music (tech talks, or just vibing)</p>
 
 ###
 
-<h3 align="left">📧 Find Me On</h3>
+<h3 align="left">📧 Connect With Me</h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ouirghane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouirghane" height="30" width="40" /></a>
-  <a href="https://github.com/Pood16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Pood16" height="30" width="40" /></a>
-  <a href="mailto:lahcenwirghanec11@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ouirghane" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Pood16" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:lahcenwirghanec11@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
+  </a>
 </div>
 
 ###
@@ -32,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ My Tech Stack</h3>
 
 ###
 
@@ -40,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -67,6 +75,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pood16&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
+###
+
+<h3 align="left">🌱 Current Learning Journey</h3>
+
+###
+
+<div align="left">
+  <p>I'm currently focused on mastering:</p>
+  <ul>
+    <li>🔄 <b>React.js</b> - Building dynamic and responsive user interfaces</li>
+    <li>🛠️ <b>Laravel</b> - Creating robust, feature-rich backend systems</li>
+  </ul>
+  <p>I believe in continuous learning and am always eager to expand my knowledge!</p>
+</div>
+
+###
+
 <h3 align="left">📚 Education</h3>
 
 ###
@@ -76,8 +101,6 @@
 
 ###
 
-
-
 <h3 align="left">🌍 Languages</h3>
 
 ###
@@ -86,6 +109,20 @@
 - English: Intermediate  
 - French: Intermediate  
 
+###
+
+<h3 align="left">🚀 Projects & Contributions</h3>
+
+###
+
+<p align="left">Check out my repositories below to see what I've been working on! I'm actively building projects with my growing tech stack and contributing to open-source when possible.</p>
+
 ---
 
-💻 **"Code, Learn, and Build!"**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pood16&color=blueviolet" alt="Profile views counter" />
+</div>
+
+<div align="center">
+  💻 <b>"Code, Learn, Build, Repeat!"</b>
+</div>
