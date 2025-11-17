@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Lahcen Ouirghane, a passionate Full-stack developer from Morocco<br><br>- 🚀 Currently studying Full Stack Development at YouCode<br>- 🌱 I'm currently learning Spring Boot to expand my skill set<br>- ⚡ In my free time, I experiment with new coding challenges<br>- 💡 I work on side projects (small apps, open-source contributions)<br>- 🎧 I enjoy listening to podcasts or music (tech talks, or just vibing)</p>
+<p align="left">I'm Lahcen Ouirghane, a passionate Full-stack developer from Morocco<br><br>- 🚀 Currently studying Full Stack Development at YouCode<br>- 🌱 I'm currently learning Spring Boot to expand my skill set<br>- ⚡ In my free time, I experiment with new coding challenges<br>- 💡 I work on side projects (small apps)<br>- 🎧 I enjoy listening to music (just vibing)</p>
 
 ###
 
