@@ -89,11 +89,12 @@
 <div align="left">
   <p>I'm currently focused on mastering:</p>
   <ul>
-    <li>🔄 <b>React.js</b> - Building dynamic and responsive user interfaces</li>
-    <li>🛠️ <b>Laravel</b> - Creating robust, feature-rich backend systems</li>
+    <li><b>Java</b> – Developing reliable, high-performance applications</li>
+    <li><b>Spring Boot</b> – Building scalable and maintainable backend services</li>
   </ul>
-  <p>I believe in continuous learning and am always eager to expand my knowledge!</p>
+  <p>I believe in continuous learning and remain committed to advancing my expertise.</p>
 </div>
+
 
 ###
 
