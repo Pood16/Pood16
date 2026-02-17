@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">👨‍💻 Professional Profile</h3>
+<h3 align="left">Professional Profile</h3>
 
 <p align="left">
 Passionate full-stack developer with a solid foundation in backend and frontend web development. 
@@ -25,14 +25,14 @@ Committed to building scalable, maintainable, and well-structured applications f
 </p>
 
 <p align="left">
-🎓 Transitioning from a background in <b>Physical Sciences (Electronics)</b> to Full-Stack Development<br>
-💡 Constantly learning and adapting to new technologies<br>
-🌍 Based in Morocco
+Transitioning from a background in <b>Physical Sciences (Electronics)</b> to Full-Stack Development<br>
+Constantly learning and adapting to new technologies<br>
+Based in Morocco
 </p>
 
 ---
 
-<h3 align="left">🎯 Current Focus</h3>
+<h3 align="left">Current Focus</h3>
 
 ```yaml
 Backend:
@@ -91,7 +91,7 @@ DevOps:
 
 ---
 
-<h3 align="left">📊 GitHub Statistics</h3>
+<h3 align="left">GitHub Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pood16&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -108,25 +108,25 @@ DevOps:
 
 ---
 
-<h3 align="left">🎓 Education</h3>
+<h3 align="left">Education</h3>
 
 <ul align="left">
   <li>
     <b>Full Stack Development</b> — YouCode, Nador, Morocco  
     <br />2024 – 2026
-    <br />📚 Focus: Java, Spring Boot, Angular, Clean Architecture, RESTful APIs
+    <br />Focus: Java, Spring Boot, Angular, Clean Architecture, RESTful APIs
   </li>
   <li>
     <b>Bachelor's Degree in Physical Sciences (Electronics)</b>  
     Faculty of Sciences Ben M'Sik, Casablanca  
     <br />2018 – 2022
-    <br />📚 Foundation in analytical thinking, problem-solving, and logical reasoning
+    <br />Foundation in analytical thinking, problem-solving, and logical reasoning
   </li>
 </ul>
 
 ---
 
-<h3 align="left">🌐 Languages</h3>
+<h3 align="left">Languages</h3>
 
 <ul align="left">
   <li>🇲🇦 Arabic: Native</li>
@@ -136,18 +136,18 @@ DevOps:
 
 ---
 
-<h3 align="left">💼 Projects</h3>
+<h3 align="left">Projects</h3>
 
 <p align="left">
 This GitHub profile showcases academic and personal projects focused on:
 </p>
 
 <ul align="left">
-  <li>🔧 Full-stack web applications with Spring Boot and Angular</li>
-  <li>🌐 RESTful API development and integration</li>
-  <li>💾 Database-driven applications with complex data models</li>
-  <li>🎨 Modern, responsive frontend interfaces</li>
-  <li>🔐 Secure authentication and authorization systems</li>
+  <li>Full-stack web applications with Spring Boot and Angular</li>
+  <li>RESTful API development and integration</li>
+  <li>Database-driven applications with complex data models</li>
+  <li>Modern, responsive frontend interfaces</li>
+  <li>Secure authentication and authorization systems</li>
 </ul>
 
 <p align="left">
@@ -156,7 +156,7 @@ Each repository reflects continuous learning, practical implementation, and a co
 
 ---
 
-<h3 align="left">📫 Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ouirghane" target="_blank">
@@ -177,9 +177,9 @@ Each repository reflects continuous learning, practical implementation, and a co
 </div>
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Pood16">Pood16</a> | Last Updated: February 2026</sub>
+  <sub>From <a href="https://github.com/Pood16">Pood16</a> | Last Updated: February 2026</sub>
 </div>
