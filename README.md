@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pood16&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Pood16?label=Followers&style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack--JAVA-Sprin Boot%20Development-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blueviolet?style=flat-square" />
 </p>
 
 ---
